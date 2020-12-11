@@ -1,0 +1,486 @@
+{
+  "Sheet1": [
+    {
+      "AddClient.clientName": "AddClient.clientNamePlaceholder",
+      "Client Name": "Enter Client Name"
+    },
+    {
+      "AddClient.clientName": "AddClient.defaultCulture",
+      "Client Name": "null"
+    },
+    {
+      "AddClient.clientName": "AddClient.editableContent",
+      "Client Name": "Allow authors to edit questions"
+    },
+    {
+      "AddClient.clientName": "AddClient.heading",
+      "Client Name": "Add New Client"
+    },
+    {
+      "AddClient.clientName": "AddClient.individualData",
+      "Client Name": "Allow access to individual-level data"
+    },
+    {
+      "AddClient.clientName": "App.cancel",
+      "Client Name": "Cancel"
+    },
+    {
+      "AddClient.clientName": "App.confirm",
+      "Client Name": "Confirm"
+    },
+    {
+      "AddClient.clientName": "App.login",
+      "Client Name": "Login"
+    },
+    {
+      "AddClient.clientName": "App.save",
+      "Client Name": "Save"
+    },
+    {
+      "AddClient.clientName": "App.search",
+      "Client Name": "Search"
+    },
+    {
+      "AddClient.clientName": "App.update",
+      "Client Name": "Update"
+    },
+    {
+      "AddClient.clientName": "Breadcrumb.home",
+      "Client Name": "Home"
+    },
+    {
+      "AddClient.clientName": "ClientsDashboard.addLabel",
+      "Client Name": "Add Client"
+    },
+    {
+      "AddClient.clientName": "ClientsDashboard.title",
+      "Client Name": "Clients"
+    },
+    {
+      "AddClient.clientName": "Comment.characterLimit",
+      "Client Name": "Character Limit"
+    },
+    {
+      "AddClient.clientName": "Comment.commentHeight",
+      "Client Name": "Comment Height"
+    },
+    {
+      "AddClient.clientName": "Comment.commentWidth",
+      "Client Name": "Comment Width"
+    },
+    {
+      "AddClient.clientName": "Comment.largeComment",
+      "Client Name": "Large Comment"
+    },
+    {
+      "AddClient.clientName": "Comment.questionTextIsRequired",
+      "Client Name": "Question text is required"
+    },
+    {
+      "AddClient.clientName": "Comment.responseRequired",
+      "Client Name": "Response Required"
+    },
+    {
+      "AddClient.clientName": "Comment.showPreview",
+      "Client Name": "Show Preview"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.anonymous",
+      "Client Name": "Anonymous"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.confidential",
+      "Client Name": "Confidential"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.createNewSurvey",
+      "Client Name": "Create New Survey"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.createNewSurveyGroup",
+      "Client Name": "Create New Survey Group"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.leaveUnassigned",
+      "Client Name": "Leave Unassigned"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.multiRater",
+      "Client Name": "Multi-Rater"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.newSurveyGroup",
+      "Client Name": "New Survey Group Name"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.oR",
+      "Client Name": "OR"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.respondentMode",
+      "Client Name": "Respondent Mode"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.standard",
+      "Client Name": "Standard"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.surveyGroup",
+      "Client Name": "Survey Group"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.surveyName",
+      "Client Name": "Survey Name"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.surveyNameTooltip",
+      "Client Name": "The name of the survey to be referenced throughout the site"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.surveyType",
+      "Client Name": "Survey Type"
+    },
+    {
+      "AddClient.clientName": "CreateSurvey.surveyTypeTooltip",
+      "Client Name": "A confidential survey will require a unique code to enter. An anonymous survey will be available to anyone with the link"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.addDefinition",
+      "Client Name": "Add Definition"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.editDefinition",
+      "Client Name": "Edit Definition"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.term",
+      "Client Name": "Term"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.definition",
+      "Client Name": "Definition"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.definitions",
+      "Client Name": "Definitions"
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.targetCulture",
+      "Client Name": "Target Culture: "
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.fieldRequired",
+      "Client Name": "This field is required."
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.characterLimitExceed",
+      "Client Name": "The no. of characters can't exceed "
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.emptyViewText-1",
+      "Client Name": "All your survey definitions would appear here."
+    },
+    {
+      "AddClient.clientName": "DefinitionItem.emptyViewText-2",
+      "Client Name": "Click on the button below to add a new definition to your survey."
+    },
+    {
+      "AddClient.clientName": "DeleteConfirmation.AreYouSure",
+      "Client Name": "Are you sure you want to detele this survey? This action cannot be undone."
+    },
+    {
+      "AddClient.clientName": "DeleteConfirmation.Delete",
+      "Client Name": "Delete"
+    },
+    {
+      "AddClient.clientName": "DeleteConfirmation.No",
+      "Client Name": "No, Don't"
+    },
+    {
+      "AddClient.clientName": "DeleteConfirmation.Yes",
+      "Client Name": "Yes, Delete"
+    },
+    {
+      "AddClient.clientName": "EditSection.sectionName",
+      "Client Name": "Section Name"
+    },
+    {
+      "AddClient.clientName": "EditSurvey.addSection",
+      "Client Name": "Add Section"
+    },
+    {
+      "AddClient.clientName": "EditSurvey.submit",
+      "Client Name": "Submit"
+    },
+    {
+      "AddClient.clientName": "EditSurvey.surveyQuestions",
+      "Client Name": "Survey Questions"
+    },
+    {
+      "AddClient.clientName": "Items.notSupportedItem",
+      "Client Name": "not supported item"
+    },
+    {
+      "AddClient.clientName": "MCQ.clickOnAnyResponseToEditItsValueOrDragToReorder",
+      "Client Name": "Click on any response to edit it’s value or drag to reorder"
+    },
+    {
+      "AddClient.clientName": "MCQ.deleteAllResponses",
+      "Client Name": "Delete All Responses"
+    },
+    {
+      "AddClient.clientName": "MCQ.importResponses",
+      "Client Name": "Import Responses"
+    },
+    {
+      "AddClient.clientName": "MCQ.maximumSelection",
+      "Client Name": "Maximum Selection"
+    },
+    {
+      "AddClient.clientName": "MCQ.minimumSelection",
+      "Client Name": "Minimum Selection"
+    },
+    {
+      "AddClient.clientName": "MCQ.multipleChoiceQuestion",
+      "Client Name": "Multiple Choice Question"
+    },
+    {
+      "AddClient.clientName": "MCQ.questionTextIsRequired",
+      "Client Name": "Question text is required"
+    },
+    {
+      "AddClient.clientName": "MCQ.responseRequired",
+      "Client Name": "Response Required"
+    },
+    {
+      "AddClient.clientName": "NPS.title",
+      "Client Name": "NPS"
+    },
+    {
+      "AddClient.clientName": "Questionnaire.addQuestionSection",
+      "Client Name": "Add Question Section"
+    },
+    {
+      "AddClient.clientName": "Questionnaire.editSurvey",
+      "Client Name": "Edit Survey"
+    },
+    {
+      "AddClient.clientName": "Questionnaire.emptyViewText-1",
+      "Client Name": "All your survey questions would appear here."
+    },
+    {
+      "AddClient.clientName": "Questionnaire.emptyViewText-2",
+      "Client Name": "Click on the button below to add a question."
+    },
+    {
+      "AddClient.clientName": "Questionnaire.preview",
+      "Client Name": "Preview"
+    },
+    {
+      "AddClient.clientName": "Questionnaire.surveyQuestions",
+      "Client Name": "Survey Questions"
+    },
+    {
+      "AddClient.clientName": "SurveyHeader.surveyActions",
+      "Client Name": "Survey Actions"
+    },
+    {
+      "AddClient.clientName": "SurveyHeader.surveyFormatting",
+      "Client Name": "Survey Formatting"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.completed",
+      "Client Name": "Completed"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.copySurvey",
+      "Client Name": "Copy Survey"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.createSurvey",
+      "Client Name": "Create Survey"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.deleteSurvey",
+      "Client Name": "Delete Survey"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.pageTitle",
+      "Client Name": "Surveys"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.previewSurvey",
+      "Client Name": "Preview Survey"
+    },
+    {
+      "AddClient.clientName": "SurveyListing.viewSurveyProperties",
+      "Client Name": "View Survey Properties"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.additionalOptions",
+      "Client Name": "Additional Options"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.allowRespondentsToResumeTheirCompletedSurveys",
+      "Client Name": "Allow respondents to resume their completed surveys"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.allowRespondentsToResumeTheirCompletedSurveysTooltip",
+      "Client Name": "Lets users return to an open survey that they have already completed"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.clientId",
+      "Client Name": "Client Id"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.clientIdTooltip",
+      "Client Name": "The system ID of this client to be used for internal reference"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.copyUrlTooltip",
+      "Client Name": "Copy to Clipboard"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.enableEmployeeIDLogin",
+      "Client Name": "Enable Employee ID Login"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.enableEmployeeIDLoginTooltip",
+      "Client Name": "Adds a log in page that requires an employee ID in order to access the survey"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.enableModernSurveyFormat",
+      "Client Name": "Enable Modern Survey Format"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.enableModernSurveyFormatTooltip",
+      "Client Name": "Changes the survey style from traditional to modern"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.firstTimeLogin",
+      "Client Name": "First Time Login"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.firstTimeLoginTooltip",
+      "Client Name": "The url to use for the first time an anonymous user logs into the survey."
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.goToLinkTooltip",
+      "Client Name": "Open in new tab"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.hoverOverAnyFieldToKnowMoreAboutIt",
+      "Client Name": "Hover over any field to know more about it."
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.inUse",
+      "Client Name": "In Use"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.minimumQuestionsAnswered",
+      "Client Name": "Minimum Questions Answered For Completion (Leave at zero if requiring final submission from respondent)"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.minimumQuestionsAnsweredTooltip",
+      "Client Name": "Sets the minimum number of questions that need to be completed in order for a user to be counted as complete"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.options",
+      "Client Name": "Options"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.previewLink",
+      "Client Name": "Preview Link"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.previewLinkTooltip",
+      "Client Name": "The url for a preview version of the survey."
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.resumeSession",
+      "Client Name": "Resume Session"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.resumeSessionTooltip",
+      "Client Name": "The url to use for an anonymous user to resume a survey they have already started."
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.rosterId",
+      "Client Name": "Roster Id"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.rosterIdTooltip",
+      "Client Name": "The system ID of the survey roster to be used for internal reference"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.sessionTimeoutLength",
+      "Client Name": "Session Timeout Length(In Minutes)"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.sessionTimeoutLengthTooltip",
+      "Client Name": "Sets a time limit that will expire the survey session for inactivity after a specified amount of time"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.showAsteriskForRequiredQuestions",
+      "Client Name": "Show asterisk for required questions"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.showAsteriskForRequiredQuestionsTooltip",
+      "Client Name": "Adds a red asterisk next to questions that require an answer"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.showReadOnlyFields",
+      "Client Name": "Show Read-only Fields"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.supportLink",
+      "Client Name": "Support Link"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.supportLinkTooltip",
+      "Client Name": "The url for the survey support page."
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyId",
+      "Client Name": "Survey Id"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyIdTooltip",
+      "Client Name": "The system ID of this survey to be used for internal reference"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyKey",
+      "Client Name": "Survey Key"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyKeyTooltip",
+      "Client Name": "The secret key for this survey to be used for internal reference"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyLinks",
+      "Client Name": "Survey Links"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyNotes",
+      "Client Name": "Survey Notes"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyNotesTooltip",
+      "Client Name": "Use this area to save notes about this survey"
+    },
+    {
+      "AddClient.clientName": "SurveyProperties.surveyProperties",
+      "Client Name": "Survey Properties"
+    },
+    {
+      "AddClient.clientName": "informative.information",
+      "Client Name": "Information"
+    },
+    {
+      "AddClient.clientName": "informative.thisIsMandatoryField",
+      "Client Name": "This is mandatory field."
+    }
+  ],
+  "Evaluation Warning": [
+  ]
+}
